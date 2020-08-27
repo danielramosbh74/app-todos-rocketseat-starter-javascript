@@ -7,3 +7,7 @@ I'm making them available here because I think they can be useful to other peopl
 
 In addition to making them available here I am also organizing myself better, as it is a way of remembering some basic concepts that I often need.
 
+# See it running and test it here
+
+https://danielramosbh74.github.io/app-todos-rocketseat-starter-javascript/index.html
+
